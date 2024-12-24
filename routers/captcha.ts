@@ -16,3 +16,5 @@ captchaRouter.post('/verify', async (req, res, next) => {
 });
 
 export default captchaRouter;
+
+// Роутер, который почему-то не срабатывал. Выходила ошибка 404
